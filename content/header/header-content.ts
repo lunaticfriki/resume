@@ -1,3 +1,3 @@
 export const HeaderContent = {
-  title: 'Cristina Zacarias Ribot',
+  title: 'Cristina Zacarías Ribot',
 }
