@@ -1,0 +1,18 @@
+:root {
+  --primary: #E924C8;
+  --secondary: #1a0323;
+  --white: #fff;
+  --black: #000;
+}
+
+html, body {
+  color: var(--white);
+  background-color: var(--secondary);
+}
+
+a {
+  transition: 0.3s ease-in-out;
+  &:hover {
+    color: var(--primary);
+  }
+}
